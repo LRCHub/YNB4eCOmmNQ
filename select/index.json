@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちょこっとチョコレート",
+  "base_artist": "ろん",
+  "createdAt": "2026-02-19T04:16:30.605255Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちょこっとチョコレート",
+      "artist": "ろん",
+      "has_synced": false,
+      "path": "select/pl_01_ちょこっとチョコレート_ろん.txt"
+    }
+  ]
+}
